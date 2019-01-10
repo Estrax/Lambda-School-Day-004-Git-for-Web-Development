@@ -1,6 +1,6 @@
 # Hey, I am Lukasz...
 
-...and I am:
+## ...and I am:
 - indecisive
 - wet blanket
 - full of hot air
